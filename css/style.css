@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-size: cover;
+}
+/* foreground details */
+.container{
+    text-align: center;
+    margin-top: 165px;
+    
+}
+
+.inner-image{
+    position: absolute;
+    border-radius: 50%;
+    text-align: center;
+    top: 200px;
+    left: 650px;
+}
+
+.name-field{
+    position: absolute;
+    top: 58%;
+    left: 40% ;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
